@@ -6,7 +6,7 @@ public class InvertedPyramid
     {
         int i,j,k;
 
-        for(i=7; i>=1; i--)
+        for(i=5; i>=1; i--)
         {
             for(k=i;k<=7;k++)
             {
