@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13bafc99-7bd8-4405-9790-4eaabd4f1779" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Array/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Array/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Array/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Array/Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Array/src/com/AvijeetBehera/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Array/src/com/AvijeetBehera/SortArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/Composition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/out/production/Composition/com/AvijeetBehera/Dimensions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/out/production/Composition/com/AvijeetBehera/Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/out/production/Composition/com/AvijeetBehera/Lights.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/out/production/Composition/com/AvijeetBehera/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/out/production/Composition/com/AvijeetBehera/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/out/production/Composition/com/AvijeetBehera/Wardrobe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/src/com/AvijeetBehera/Dimensions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/src/com/AvijeetBehera/Door.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/src/com/AvijeetBehera/Lights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/src/com/AvijeetBehera/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/src/com/AvijeetBehera/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Composition/src/com/AvijeetBehera/Wardrobe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/Encapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/out/production/Encapsulation/com/AvijeetBehera/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/out/production/Encapsulation/com/AvijeetBehera/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/src/com/AvijeetBehera/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Encapsulation/src/com/AvijeetBehera/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/out/production/Inheritance/com/AvijeetBehera/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/out/production/Inheritance/com/AvijeetBehera/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/out/production/Inheritance/com/AvijeetBehera/Outlander.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/out/production/Inheritance/com/AvijeetBehera/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/src/com/AvijeetBehera/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/src/com/AvijeetBehera/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/src/com/AvijeetBehera/Outlander.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Inheritance/src/com/AvijeetBehera/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/Metrics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/out/production/Metrics/com/AvijeetBehera/FeetInches.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/out/production/Metrics/com/AvijeetBehera/FirstLastDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/out/production/Metrics/com/AvijeetBehera/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/out/production/Metrics/com/AvijeetBehera/InvertedPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/out/production/Metrics/com/AvijeetBehera/KiloBytestoMegaBytes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/src/com/AvijeetBehera/FeetInches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/src/com/AvijeetBehera/FirstLastDigitSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/src/com/AvijeetBehera/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/src/com/AvijeetBehera/InvertedPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Metrics/src/com/AvijeetBehera/KiloBytestoMegaBytes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/ObjectOriented.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/out/production/ObjectOriented/com/AvijeetBehera/DeluxeBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/out/production/ObjectOriented/com/AvijeetBehera/Hamburger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/out/production/ObjectOriented/com/AvijeetBehera/HealthyBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/out/production/ObjectOriented/com/AvijeetBehera/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/src/com/AvijeetBehera/DeluxeBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/src/com/AvijeetBehera/Hamburger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/src/com/AvijeetBehera/HealthyBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/ObjectOriented/src/com/AvijeetBehera/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/Polymorphism.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/out/production/Polymorphism/com/AvijeetBehera/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/out/production/Polymorphism/com/AvijeetBehera/Creta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/out/production/Polymorphism/com/AvijeetBehera/Duster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/out/production/Polymorphism/com/AvijeetBehera/I20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/out/production/Polymorphism/com/AvijeetBehera/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JavaPrograms/Polymorphism/src/com/AvijeetBehera/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Dictionaries-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Functions Test -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Functions Test Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Lists-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Numbers-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Python Objects - Test - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Python Objects - Test -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Sets-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Advanced Strings-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/All() and any() -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Chained Comparison Operators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Collections Module-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Comparison Operators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Complex-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Datetime-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Decorators Homework-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Decorators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Dictionaries-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Enumerate -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Errors and Exceptions Handling-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Errors and Exceptions Homework - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Errors and Exceptions Homework -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/FAQ-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Files-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Filter -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Final Capstone Project-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/For Loops -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Functions and Methods Homework - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Functions and Methods Homework -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Functions and Methods Homework-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Functions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/If, elif, and else Statements -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Introduction to Python Statements-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Iterators and Generators Homework - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Iterators and Generators Homework-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Iterators and Generators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Jupyter (iPython) Notebooks Guide-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Lambda expressions -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/List Comprehensions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Lists-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Map -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Map-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Methods-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Milestone Project 1 - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Milestone Project 1- Assignment-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Milestone Project 1- Complete Walkthrough Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Milestone Project 2 - Assignment-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Milestone Project 2 Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Modules and Packages-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/MultiProcessing-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Nested Statements and Scope-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Numbers-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Object Oriented Programming Homework -Assignment-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Object Oriented Programming Homework -Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Object Oriented Programming-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Objects and Data Structures Assessment Test-Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Objects and Data Structures Assessment Test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Print Formatting-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Python Debugger (pdb)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Range() -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Reduce -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Regular Expressions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Sets and Booleans-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Statements Assessment Test - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Statements Assessment Test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/StringIO-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Strings-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Timing your code - timeit-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Tuples-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Variable Assignment-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/While loops -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/.ipynb_checkpoints/Zip-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Dictionaries.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Functions Test Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Functions Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Lists.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Numbers.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Python Objects - Test - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Python Objects - Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Sets.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Advanced Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/All() and any().ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Chained Comparison Operators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Collections Module.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Comparison Operators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Complex.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Datetime.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Decorators Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Decorators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Dictionaries.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Enumerate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Errors and Exceptions Handling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Errors and Exceptions Homework - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Errors and Exceptions Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/FAQ.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Files.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Filter.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Final Capstone Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Final Capstone Projects/.ipynb_checkpoints/Final Capstone Project Ideas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Final Capstone Projects/Final Capstone Project Ideas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Final Capstone Projects/Projects-Solutions/Solution Links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/For Loops.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Functions and Methods Homework - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Functions and Methods Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Functions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/.ipynb_checkpoints/1 - Interact-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/.ipynb_checkpoints/2 - Widget Basics-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/.ipynb_checkpoints/3 - Widget Events-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/.ipynb_checkpoints/4 - Widget List-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/.ipynb_checkpoints/5 - Widget Styling-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/.ipynb_checkpoints/6 - Custom Widget-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/1 - Interact.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/2 - Widget Basics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/3 - Widget Events.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/4 - Widget List.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/5 - Widget Styling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/GUI/6 - Custom Widget.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/If, elif, and else Statements.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Introduction to Python Statements.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Iterators and Generators Homework - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Iterators and Generators Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Iterators and Generators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Jupyter (iPython) Notebooks Guide.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Lambda expressions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/List Comprehensions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Lists.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Map.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Milestone Project 1 - Advanced Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Milestone Project 1- Assignment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Milestone Project 1- Complete Walkthrough Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Milestone Project 1- Walkthrough Steps Workbook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Milestone Project 2 - Assignment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Milestone Project 2 Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Modules and Packages.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/MultiProcessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Nested Statements and Scope.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Numbers.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Object Oriented Programming Homework -Assignment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Object Oriented Programming Homework -Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Object Oriented Programming.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Objects and Data Structures Assessment Test-Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Objects and Data Structures Assessment Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Print Formatting.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Python Debugger (pdb).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Range().ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Reduce.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Regular Expressions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Sets and Booleans.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Statements Assessment Test - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Statements Assessment Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/StringIO.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Timing your code - timeit.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Tuples.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Variable Assignment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/While loops.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/Zip.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonTutorial/testfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JavaPrograms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="JavaPrograms" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13bafc99-7bd8-4405-9790-4eaabd4f1779" name="Default Changelist" comment="" />
+      <created>1549774243108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549774243108</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Composition/src/com/AvijeetBehera/Dimensions.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaPrograms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
